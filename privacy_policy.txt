@@ -1,0 +1,1 @@
+the app does not use any player data
